@@ -1,0 +1,87 @@
+.main{
+    width: 100%;
+    height: calc(100vh-80px);
+
+    display: flex;
+    flex-direction: column;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+}
+
+.left_div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_col{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 40px
+}
+
+.p{
+    font-size: 40px;
+    font-weight: 500;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.p > p{
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin: 0;
+}
+
+.bt{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 75px;
+}
+
+.button{
+    background-color: var(--blue);
+    color: var(--pure-white);
+    font-size: 16px;
+    font-weight: 700;
+    
+    padding: 12px 32px 12px 32px;
+
+    border-radius: 10px;
+    box-shadow: 0px 5px #3E64E8;
+
+    border: none;
+}
+
+.img_div{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.pug{
+    margin-top: -50px;
+    width: 500px;
+    height: 500px;
+}
+
+.crown{
+    width: 285px;
+    height: 116px;
+}
+
+.big_bubbles{
+    width: 100%;
+    margin-top: -100px;
+}

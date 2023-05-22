@@ -1,0 +1,28 @@
+.footer{
+    height: 100px;
+}
+
+.nav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    gap: 16px;
+
+    width: calc(100%-32px);
+    height: 100%;
+    padding: 32px;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.nav > a{
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.icons{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    gap: 10px;
+}

@@ -1,0 +1,19 @@
+{
+  "partners": [
+    {
+      "id": "c64ed3ea-cd68-40ce-8d14-9e4329a75fc3",
+      "img": "https://www.shopveterinario.com.br/blog/wp-content/uploads/2021/03/medico-veterinario-bem-sucedido-artigo.jpg",
+      "name": "Carlos"
+    },
+    {
+      "id": "c64ed3ea-cd68-40ce-8d14-9e4329a75fc2",
+      "img": "https://www.shopveterinario.com.br/blog/wp-content/uploads/2021/03/medico-veterinario-bem-sucedido-artigo.jpg",
+      "name": "Maria"
+    },
+    {
+      "id": "c64ed3ea-cd68-40ce-8d14-9e4329a75fc5",
+      "img": "https://www.shopveterinario.com.br/blog/wp-content/uploads/2021/03/medico-veterinario-bem-sucedido-artigo.jpg",
+      "name": "Joao"
+    }
+  ]
+}
